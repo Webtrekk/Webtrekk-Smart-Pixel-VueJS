@@ -1,0 +1,26 @@
+{
+  "name": "webtrekk-smart-pixel-vuejs",
+  "version": "0.1.0",
+  "description": "A Vue.js implementation of the Webtrekk Smart Pixel.",
+  "main": "./index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webtrekk/Webtrekk-Smart-Pixel-VueJS.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "Webtrekk GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Webtrekk/Webtrekk-Smart-Pixel-VueJS/issues"
+  },
+  "homepage": "https://github.com/Webtrekk/Webtrekk-Smart-Pixel-VueJS#readme",
+  "dependencies": {
+    "webtrekk-smart-pixel": "^1.0.6"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
