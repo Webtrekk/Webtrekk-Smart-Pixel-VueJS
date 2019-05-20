@@ -1,4 +1,4 @@
-import webtrekkSmartPixelVueJS from "./debug";
+const webtrekkSmartPixelVueJS = require("./debug");
 
 /**
  * @constructor
@@ -44,4 +44,4 @@ var ApplicationTracking = function() {
     };
 };
 
-export default new ApplicationTracking();
+module.exports = new ApplicationTracking();
